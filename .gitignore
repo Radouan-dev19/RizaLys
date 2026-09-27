@@ -1,0 +1,11 @@
+node_modules/
+.next/
+tmp/
+*.tsbuildinfo
+.DS_Store
+.env*
+!.env.example
+
+.vs/
+.pnpm-store/
+supabase/.temp/
